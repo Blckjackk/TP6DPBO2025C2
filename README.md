@@ -36,15 +36,17 @@ Program ini terdiri dari beberapa komponen utama:
 
 1. **Layar Start**: Ketika program pertama kali dijalankan, akan muncul layar selamat datang dengan tulisan "Press SPACE to start".
    
-   ![Start Screen](screenshot/start_screen.png)
+![Screenshot 2025-04-13 214257](https://github.com/user-attachments/assets/c21248b5-84d2-4115-b521-3dd24c43a785)
+
 
 2. **Permainan Berjalan**: Setelah menekan `SPACE`, permainan dimulai. Burung mulai bergerak ke bawah dan bisa melompat ketika tombol `SPACE` ditekan. Pipa muncul dari sisi kanan layar.
 
-   ![Game Running](screenshot/game_running.png)
+![Screenshot 2025-04-13 214903](https://github.com/user-attachments/assets/e4bd1399-643b-4591-82d3-cd21f4520ab6)
+
 
 3. **Game Over**: Jika burung menabrak pipa atau jatuh ke tanah, permainan berakhir dan layar menampilkan skor terakhir serta tombol untuk restart dengan menekan `R`.
 
-   ![Game Over](screenshot/game_over.png)
+![Screenshot 2025-04-13 214250](https://github.com/user-attachments/assets/90ca3e51-612f-490c-ab16-79701c9814f2)
 
 ## Cara Menjalankan Program
 
