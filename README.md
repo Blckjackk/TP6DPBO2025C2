@@ -1,5 +1,8 @@
 # TP6DPBO2025C2
 
+# Janji
+Saya Ahmad Izzuddin Azzam dengan NIM 2300492 berjanji mengerjakan TP6 DPBO dengan keberkahan-Nya, maka saya tidak akan melakukan kecurangan sesuai yang telah di spesifikasikan, Aamiin
+
 # Flappy Bird Game
 
 Flappy Bird adalah permainan 2D klasik yang dibangun menggunakan Java dengan bantuan library Swing untuk GUI. Pemain mengontrol burung yang bergerak untuk menghindari pipa yang bergerak dari kanan ke kiri layar.
